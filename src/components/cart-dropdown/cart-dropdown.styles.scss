@@ -12,6 +12,11 @@
   z-index: 5;
   overflow-y: scroll;
 
+  .empty-message {
+    font-size: 18px;
+    margin: 50px auto;
+  }
+
   .cart-item {
     display: flex;
     flex-direction: row;
